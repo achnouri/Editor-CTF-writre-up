@@ -57,13 +57,11 @@ PORT     STATE SERVICE REASON         VERSION
 |   256 64:cc:75:de:4a:e6:a5:b4:73:eb:3f:1b:cf:b4:e3:94 (ED25519)
 |_ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOtuEdoYxTohG80Bo6YCqSzUY9+qbnAFnhsk4yAZNqhM
 
-
 80/tcp   open  http    syn-ack ttl 63 nginx 1.18.0 (Ubuntu)
 |_http-server-header: nginx/1.18.0 (Ubuntu)
 | http-methods: 
 |_  Supported Methods: GET HEAD
 |_http-title: Editor - SimplistCode Pro
-
 
 8080/tcp open  http    syn-ack ttl 63 Jetty 10.0.20
 | http-methods: 
